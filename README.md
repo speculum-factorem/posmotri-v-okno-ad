@@ -1,1 +1,1 @@
-git@github.com:speculum-factorem/posmotri-v-okno-ad.git
+https://github.com/speculum-factorem/posmotri-v-okno-ad.git
