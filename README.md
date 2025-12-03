@@ -1,0 +1,1 @@
+git@github.com:speculum-factorem/posmotri-v-okno-ad.git
